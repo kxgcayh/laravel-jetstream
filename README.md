@@ -11,6 +11,16 @@
 
 This application is using Laravel Version 8 and Using Jetstream Auth Scaffolding.
 
+### Screenshots
+#### 1. Login Page
+![Login Page](https://github.com/kxgcayh/laravel-jetstream/blob/master/screenshots/LoginPage.png?raw=true)
+#### 2. Register Page
+![Register Page](https://github.com/kxgcayh/laravel-jetstream/blob/master/screenshots/RegisterPage.png)
+#### 3. Dashboard Page
+![Dashboard Page](https://github.com/kxgcayh/laravel-jetstream/blob/master/screenshots/DashboardPage.png)
+#### 4. Posts Page
+![Posts Page](https://github.com/kxgcayh/laravel-jetstream/blob/master/screenshots/PostPage.png)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
